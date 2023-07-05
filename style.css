@@ -1,0 +1,13 @@
+img{
+    border: 5px solid #555;
+    object-fit: cover;
+    width: 225px;
+    height: 225px;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
